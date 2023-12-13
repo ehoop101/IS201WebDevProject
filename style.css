@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(175, 170, 164);
+}
+.statement{
+    text-align: center;
+    color: rgb(129, 32, 49);
+}
+h1{
+    text-align: center;
+    color: rgb(129, 32, 49);
+    text-decoration: underline;
+}
+.navlinks{
+    color: black;
+}
+.leftbody{
+    float: left;
+    padding-right: 200px;
+}
+.midbody{
+    padding-right: 200px;
+}
+.rightbody{
+    float: right;
+
+}
