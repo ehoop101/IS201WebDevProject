@@ -3,24 +3,71 @@ body{
 }
 .statement{
     text-align: center;
-    color: rgb(129, 32, 49);
+    color: rgb(170, 51, 116);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
 }
 h1{
     text-align: center;
-    color: rgb(129, 32, 49);
+    color: rgb(170, 51, 116);
     text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
 }
 .navlinks{
     color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .leftbody{
     float: left;
     padding-right: 200px;
+    padding-bottom: 53px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid 1px;
+    background-color: white;
 }
 .midbody{
-    padding-right: 200px;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px ;
+    padding-bottom: 10px;
+    background-color: white;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .rightbody{
-    float: right;
+    float: left;
+    padding-left: 100px;
+    padding-bottom: 76px;
+    padding-right: 181px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid 1px;
+    background-color: white;
+    
+    
 
+}
+.tableauPlaceholder{
+    padding-left: 375px;
+    padding-top: 200px;
+}
+
+.anchor{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    text-decoration: underline;
+}
+.color{
+    background-color: rgb(206, 195, 195);
+}
+.Ocome{
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
